@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630685298331",
+    "project_id": "garages-app-530c0",
+    "storage_bucket": "garages-app-530c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630685298331:android:1349774e6909d7265ea03e",
+        "android_client_info": {
+          "package_name": "com.joao.garageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630685298331-ufqq9v44g7fe8gmefmk72momnlial5nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joao.garageapp",
+            "certificate_hash": "a1a1386c93d2d44d056c4552b5bc012cbf659e53"
+          }
+        },
+        {
+          "client_id": "630685298331-c4rdsicvu85a85un9her58detl6mf72t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6U2Nv4i8JhV4B195yZU1tRcdaG87J800"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630685298331-c4rdsicvu85a85un9her58detl6mf72t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Garage App</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">Select User</string>
+    <string name="type_message">Type Message</string>
+    <string name="alugar_n_garagem">Alugar \n Garagem</string>
+    <string name="map_key">AIzaSyAKV2vZzCL06jQQQjQVt-JD8n8zzPDYqGI</string>
+    <string name="dummy_text">Evento em destaque</string>
+
+    <string name="sign_up_fragment_empty_email">Insira um email</string>
+    <string name="sign_up_fragment_error_email">Email inválido</string>
+    <string name="sign_up_fragment_empty_name">Insira um nome de usuário</string>
+    <string name="sign_up_fragment_empty_password">Insira uma senha</string>
+    <string name="sign_up_fragment_different_password">Senhas não conhecidem</string>
+    <string name="sign_up_fragment_null_image">Selecione uma imagem</string>
+    <string name="online">Online</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="conversation_text">%1$s: %2$s</string>
+</resources>
